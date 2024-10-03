@@ -5,7 +5,7 @@
 ### **Data Sources**
 This analysis is based on two primary datasets:
 1. **COVID-19 Deaths Data** (`CovidDeaths`)
-2. **COVID-19 Vaccination Data** (`CovidVaccination`)
+2. **COVID-19 Vaccination Data** (`CovidVaccinations`)
 
 The goal of this project is to explore the global impact of the COVID-19 pandemic through data analysis, focusing on infection rates, death rates, and vaccination progress. Visualizations offer insight into the virus's effects across different locations and time periods.
 
