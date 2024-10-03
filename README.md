@@ -2,6 +2,8 @@
 
 This project explores global COVID-19 data, focusing on key metrics such as death rates, infection rates, and vaccination rates across various countries and continents. By leveraging SQL queries, we analyze and aggregate data to generate meaningful insights into the pandemic's impact on populations worldwide.
 
+![Screenshot 2024-10-03 104833](https://github.com/user-attachments/assets/9e86f928-18b6-477c-9c0c-39c84f2a8c10)
+
 ## **Project Overview**
 
 This SQL portfolio project is designed to:
